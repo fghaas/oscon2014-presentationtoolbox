@@ -1,7 +1,3 @@
-### Enter
-# shellinaboxd
-
-
 ### A
 # Terminal emulator
 ### using
