@@ -21,3 +21,17 @@ and find your content at http://username.github.io/repo
 
 
 ### But it doesn't have to be!
+
+
+
+## Git submodules
+
+
+
+### A way to
+## cross-reference
+### Git repos
+
+
+
+### And they work with GitHub Pages!
