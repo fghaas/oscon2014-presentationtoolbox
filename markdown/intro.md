@@ -3,6 +3,38 @@
 ### That Might Blow Your Audience Away
 
 
+### This is about
+# tools
+
+
+## Not
+# delivery
+
+
+## Not
+# structure
+
+
+## Not
+# personal presence
+
+
+### Why? Because
+# others
+### have covered it
+# better
+### than I can
+
+
+## Presentation Zen
+Garr Reynolds
+
+
+## Presentation Aikido
+Damian Conway
+
+
+
 ## Things you can safely
 # Forget about
 
