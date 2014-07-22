@@ -37,6 +37,7 @@ body,
 .reveal h5,
 .reveal h6 {
   font-family: inherit;
+  font-weight: bold;
 }
 
 /* Override the default uppercase text-transform
