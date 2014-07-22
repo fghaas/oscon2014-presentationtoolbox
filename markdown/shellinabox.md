@@ -1,5 +1,5 @@
 # Shellinabox
-http://code.google.com/shellinabox
+http://code.google.com/p/shellinabox
 
 
 A
