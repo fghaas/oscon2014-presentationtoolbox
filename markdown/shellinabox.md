@@ -9,4 +9,4 @@ using
 (If that's not slick, I don't know what is.)
 
 
-<iframe src="http://localhost:4101"></iframe>
+The presentation includes a live demonstration at this point.

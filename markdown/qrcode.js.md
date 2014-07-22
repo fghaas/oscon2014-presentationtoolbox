@@ -22,4 +22,4 @@ on their phone or tablet
 ### Let's take a look.
 
 
-<iframe src="http://localhost:4101"></iframe>
+The presentation includes a live demonstration at this point.
