@@ -26,7 +26,8 @@
 
 body,
 .reveal {
-  font-family: "Open Sans Condensed";
+  font-family: "Open Sans Condensed", "League Gothic", sans-serif;
+  font-weight: normal;
 }
 
 .reveal h1,
@@ -36,7 +37,6 @@ body,
 .reveal h5,
 .reveal h6 {
   font-family: inherit;
-  font-weight: bold;
 }
 
 /* Override the default uppercase text-transform
