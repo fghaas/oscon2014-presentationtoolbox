@@ -1,29 +1,29 @@
-### A presentation
+A presentation
 # Toolbox
-### That Might Blow Your Audience Away
+That Might Blow Your Audience Away
 
 
-### This is about
+This is about
 # tools
 
 
-## Not
+Not
 # delivery
 
 
-## Not
+Not
 # structure
 
 
-## Not
+Not
 # personal presence
 
 
-### Why? Because
+Why? Because
 # others
-### have covered it
+have covered it
 # better
-### than I can
+than I can
 
 
 ## Presentation Zen
@@ -35,60 +35,69 @@ Damian Conway
 
 
 
-## Things you can safely
+Things you can safely
 # Forget about
 
 
+Microsoft
 # PowerPoint
 
 
+Apple
 # Keynote
 
 
-### LibreOffice
+LibreOffice
 # Impress
 
 
-### Google
+Google
 # Slides
 
 
-### There is
+There is
 # one tool
-### that you use
+that you use
 # every day
 
 
-### On your
+On your
 # Laptop
 
 
+on your
 # Phone
 
 
+on your
 # Tablet
 
 
-### That tool is
+That tool is
 # your browser
 
 
-### So you want your presentations to be in
+So you want your presentations to be in
 # HTML
 
 
-### and look great on
+and look good on
 # any device
 
 
-### Now, are you an
-# HTML Ninja?
+Now, are you an
+# HTML ninja?
 
 
-### Or a
-# CSS Guru?
+or a
+# CSS guru?
 
 
-### Well,
+or a
+# JavaScript expert?
+
+
+Well,
 # I'm not.
+Far from it, actually.
 
