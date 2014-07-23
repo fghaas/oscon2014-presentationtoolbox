@@ -36,7 +36,8 @@ body,
 .reveal h3,
 .reveal h4,
 .reveal h5,
-.reveal h6 {
+.reveal h6,
+.reveal a {
   font-family: inherit;
   font-weight: bold;
 }
