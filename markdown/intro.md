@@ -1,10 +1,3 @@
-![Monochrome self-portrait with camera](https://farm3.staticflickr.com/2939/14548190587_a2f25e3f05_h_d.jpg)
-
-Florian Haas
-
-florian@hastexo.com
-
-
 A presentation
 # Toolbox
 That Might Blow Your Audience Away
